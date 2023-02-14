@@ -3,7 +3,7 @@
  
 p=int(input("enter a age:"))
  
-if p>=18:
+if p>= 18:
  	print("eligable for vote")
 else:
  	print("not eligable for vote")
